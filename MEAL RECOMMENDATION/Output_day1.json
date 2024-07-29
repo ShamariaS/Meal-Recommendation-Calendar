@@ -1,0 +1,27 @@
+{
+  "day 1": [
+    {
+      "meal_name": "breakfast",
+      "meal_time": "8:00",
+      "Beverage": "Green Tea",
+      "Main Course": "Greek Yogurt with Berries and Nuts"
+    },
+    {
+      "meal_name": "lunch",
+      "meal_time": "12:30",
+      "Beverage": "Unsweetened Iced Tea",
+      "Main Course": "Grilled Chicken Salad",
+      "Side": "Roasted Vegetables"
+      
+    },
+    {
+      "meal_name": "dinner",
+      "meal_time": "19:00",
+      "Beverage": "Sparkling Water",
+      "Main Course": "Baked Salmon",
+      "Side": "Steamed Broccoli",
+      "Dessert": "Fresh Fruit Salad"
+    }
+  ]
+}
+

@@ -1,0 +1,25 @@
+{
+  "day 1": [
+    {
+      "meal_name": "Breakfast",
+      "meal_time": "9:00",
+      "Beverage": "Cappuccino",
+      "Main Course": "my-scotch-eggs"
+    },
+    {
+      "meal_name": "Lunch",
+      "meal_time": "13:00",
+      "Beverage": "Apple Juice",
+      "Main Course": "quarter-pounder",
+      "Side": "egg-in-an-avocado-hole"
+    },
+    {
+      "meal_name": "Dinner",
+      "meal_time": "20:00",
+      "Beverage": "Pepsi",
+      "Main Course": "bean-burrito-copycat",
+      "Dessert": "apple-pie",
+      "Side": "crunchy-taco"
+    }
+  ]
+}

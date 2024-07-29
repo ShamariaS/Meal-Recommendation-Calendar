@@ -1,0 +1,25 @@
+{
+  "day 4": [
+    {
+      "meal_name": "breakfast",
+      "meal_time": "8:00",
+      "Beverage": "Green Tea",
+      "Main Course": "Greek Yogurt with Berries and Nuts"
+    },
+    {
+      "meal_name": "lunch",
+      "meal_time": "12:00",
+      "Beverage": "Water with Cucumber Slices",
+      "Main Course": "Turkey Sandwich on Wheat",
+      "Side": "Hummus Dip"
+      
+    },
+    {
+      "meal_name": "dinner",
+      "meal_time": "19:00",
+      "Beverage": "Unsweetened-Tea",
+      "Main Course": "Grilled Salmon, Baked Potato, and Spinach Salad",
+      "Dessert": "Baked Apple with Cinnamon"
+    }
+  ]
+}

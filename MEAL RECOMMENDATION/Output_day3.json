@@ -1,0 +1,26 @@
+{
+  "day 3": [
+    {
+      "meal_name": "breakfast",
+      "meal_time": "8:00",
+      "Beverage": "Almond Milk",
+      "Main Course": "Oatmeal with Chia Seeds and Blueberries"
+    },
+    {
+      "meal_name": "lunch",
+      "meal_time": "12:30",
+      "Beverage": "Water with Cucumber Slices",
+      "Main Course": "Lentil Soup",
+      "Side": "Cucumber and Tomato Salad"
+      
+    },
+    {
+      "meal_name": "dinner",
+      "meal_time": "19:00",
+      "Beverage": "Chamomile Tea",
+      "Main Course": "Stir-Fried Shrimp with Vegetables",
+      "Dessert": "Baked Apple with Cinnamon"
+    }
+  ]
+}
+

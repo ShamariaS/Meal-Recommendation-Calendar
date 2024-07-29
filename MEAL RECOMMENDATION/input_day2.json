@@ -1,0 +1,34 @@
+{
+  "Condition": "Diabetic",
+  "recommendation_constraints": [
+    {
+      "meal_type": {
+        "meal_name": "breakfast",
+        "meal_config": ["Beverage", "Main Course", "Fruit"],
+        "time": "8:00"
+      }
+    },
+    {
+      "meal_type": {
+        "meal_name": "lunch",
+        "meal_config": ["Beverage", "Main Course", "Side", "Salad"],
+        "time": "12:30"
+      }
+    },
+    {
+      "meal_type": {
+        "meal_name": "dinner",
+        "meal_config": ["Beverage", "Main Course", "Side", "Dessert"],
+        "time": "19:00"
+      }
+    }
+  ],
+  "user_compatibilities": {
+    "dairyPreference": 1,
+    "meatPreference": 0,
+    "nutsPreference": 0
+  },
+  "time_period": 3,
+  "recommendations_per_day": 3
+}
+

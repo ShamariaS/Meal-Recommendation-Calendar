@@ -1,0 +1,25 @@
+{
+  "day 6": [
+    {
+      "meal_name": "breakfast",
+      "meal_time": "8:00",
+      "Beverage": "Almond Milk",
+      "Main Course": "Smoothie with Spinach and Berries"
+    },
+    {
+      "meal_name": "lunch",
+      "meal_time": "12:30",
+      "Beverage": "Water with Cucumber Slices",
+      "Main Course": "Quinoa Salad",
+      "Side": "Carrot Sticks"
+      
+    },
+    {
+      "meal_name": "dinner",
+      "meal_time": "19:00",
+      "Beverage": "Chamomile Tea",
+      "Main Course": "Baked Cod with Asparagus",
+      "Dessert": "Baked Apple with Cinnamon"
+    }
+  ]
+}

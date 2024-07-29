@@ -1,0 +1,26 @@
+{
+  "day 10": [
+    {
+      "meal_name": "breakfast",
+      "meal_time": "8:00",
+      "Beverage": "Green Tea",
+      "Main Course": "Chia Seed Pudding with Berries"
+    },
+    {
+      "meal_name": "lunch",
+      "meal_time": "13:00",
+      "Beverage": "Iced Tea",
+      "Main Course": "Chicken Ceasar Salad without Croutons",
+      "Side": "Sliced Bell Peppers"
+      
+    },
+    {
+      "meal_name": "dinner",
+      "meal_time": "20:00",
+      "Beverage": "Sparkling Water",
+      "Main Course": "Beef Stir-Fry with Broccoli and Bell Peppers",
+      "Dessert": "Fresh Strawberries"
+    }
+  ]
+}
+

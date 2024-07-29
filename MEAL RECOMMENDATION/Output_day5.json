@@ -1,0 +1,26 @@
+{
+  "day 5": [
+    {
+      "meal_name": "breakfast",
+      "meal_time": "8:00",
+      "Beverage": "Almond Milk",
+      "Main Course": "Oatmeal"
+    },
+    {
+      "meal_name": "lunch",
+      "meal_time": "12:30",
+      "Beverage": "Water with Cucumber Slices",
+      "Main Course": "Tuna Salad",
+      "Side": "Fruit"
+      
+    },
+    {
+      "meal_name": "dinner",
+      "meal_time": "18:00",
+      "Beverage": "Unsweetened-Tea",
+      "Main Course": "Spaghetti",
+      "Dessert": "Chia seed pudding"
+    }
+  ]
+}
+

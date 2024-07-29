@@ -1,0 +1,28 @@
+{
+  "day 2": [
+    {
+      "meal_name": "breakfast",
+      "meal_time": "8:00",
+      "Beverage": "Black Coffee",
+      "Main Course": "Scrambled Eggs with Spinach"
+      
+    },
+    {
+      "meal_name": "lunch",
+      "meal_time": "12:30",
+      "Beverage": "Lemon Water",
+      "Main Course": "Turkey and Avocado Wrap",
+      "Side": "Carrot Sticks"
+      
+    },
+    {
+      "meal_name": "dinner",
+      "meal_time": "19:00",
+      "Beverage": "Herbal Tea",
+      "Main Course": "Grilled Tofu",
+      "Side": "Quinoa Salad",
+      "Dessert": "Dark Chocolate"
+    }
+  ]
+}
+

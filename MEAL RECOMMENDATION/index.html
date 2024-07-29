@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Meal Recommendation Calendar</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    .calendar {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 10px;
+      justify-items: center;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .day {
+      position: relative;
+      width: 80px;
+      height: 80px;
+      margin: 10px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    .highlight {
+      background-color: yellow; 
+      border: 2px solid #000;
+    }
+
+    .duplicate {
+      background-color: orange; 
+      border: 2px solid #000;
+    }
+
+    #details {
+      display: none;
+      margin-top: 20px;
+      border: 1px solid #ccc;
+      padding: 10px;
+      border-radius: 10px;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    .meal-card {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <h1>Meal Recommendation Calendar</h1>
+  <div id="calendar" class="calendar"></div>
+  <div id="details"></div>
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
