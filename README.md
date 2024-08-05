@@ -13,4 +13,9 @@ provided by the user to make the visually pleasing calendar.
 # Data
 - The project uses JSON files to store input and output data for the meal recommendations.
 
+# LINKS
+- [Final Report](https://docs.google.com/document/d/1-TlA6cNSPUxbzIXzmE_NvYSLlNgeRdzp63AV4iP32QE/edit?usp=sharing)
+- [Poster Link](https://claflin-my.sharepoint.com/:p:/g/personal/shastroman_claflin_edu/EdGD1ISfyodCoZDUufYpKdUB54BVybwkov5O0xSljH7nEQ?e=1HgMkw)
+  
+
   
