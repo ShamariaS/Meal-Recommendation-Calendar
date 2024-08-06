@@ -1,8 +1,7 @@
-// Downloaded JSON files
+
 const inputURL = 'input_day2.json';
 const outputURLs = ['Output_day2.json', 'Output_day3.json','Output_day4.json','Output_day5.json', 'Output_day6.json','Output_day7.json','Output_day8.json','Output_day9.json','Output_day10.json','output.json'];
 
-// Fetching JSON data
 Promise.all([
   d3.json(inputURL),
   ...outputURLs.map(url => d3.json(url))
@@ -12,12 +11,11 @@ Promise.all([
 
   const daysWithData = Object.keys(outputData).map(day => parseInt(day.split(' ')[1]));
   
-  // Used to find duplicate outputs
   const mealData = Object.values(outputData);
   const uniqueMeals = mealData.map(meals => JSON.stringify(meals)).filter((meal, index, self) => self.indexOf(meal) !== index);
   const duplicateDays = Object.keys(outputData).filter(day => uniqueMeals.includes(JSON.stringify(outputData[day])));
 
-  const totalDays = 30; //number can be changed; shows days of the "calendar"
+  const totalDays = 30;
   const data = Array.from({ length: totalDays }, (_, i) => ({
     day: i + 1,
     meals: outputData[`day ${i + 1}`] || []
